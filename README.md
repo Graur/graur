@@ -1,5 +1,10 @@
-### Hi there 👋
+# Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=graur) 
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=graur&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=graur&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graur&langs_count=8&theme=tokyonight&layout=compact" />
+</p>
 <!--
 **Graur/graur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
