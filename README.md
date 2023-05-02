@@ -1,4 +1,6 @@
-# Welcome !
+# Welcome to my page!
+
+I'm a Senior Software Engineer at Huawei.
 
 As a Software Engineer with over 6 years of experience, I have a proven track record of developing high-quality software solutions that meet clients' needs. I specialize in Java web development and have experience with a variety of programming languages, frameworks, and tools.
 
