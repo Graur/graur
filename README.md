@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer at Huawei.
 
-As a Software Engineer with over 6 years of experience, I have a proven track record of developing high-quality software solutions that meet clients' needs. I specialize in Java web development and have experience with a variety of programming languages, frameworks, and tools.
+As a Software Engineer with over 7 years of experience, I have a proven track record of developing high-quality software solutions that meet clients' needs. I specialize in Java web development and have experience with a variety of programming languages, frameworks, and tools.
 
 I am passionate about writing clean, efficient code and staying up-to-date with the latest industry trends and technologies. I have worked on a variety of projects, from small-scale web applications to large enterprise-level systems.
 
